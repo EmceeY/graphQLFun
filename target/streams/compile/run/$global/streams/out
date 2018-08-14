@@ -32,17 +32,18 @@
 [0m[[0mdebug[0m] [0m	/Users/parrot/.ivy2/cache/com.h2database/h2/jars/h2-1.4.196.jar[0m
 [0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
 [0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread graphql-server-akka.io.pinned-dispatcher-5 to terminate.[0m
-[0m[[0mdebug[0m] [0m	Thread graphql-server-akka.io.pinned-dispatcher-5 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread graphql-server-scheduler-1 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread graphql-server-scheduler-1 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread shutdownHook1 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread shutdownHook1 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread graphql-server-akka.actor.default-dispatcher-2 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread graphql-server-akka.actor.default-dispatcher-2 exited.[0m
 [0m[[0mdebug[0m] [0mWaiting for thread graphql-server-akka.actor.default-dispatcher-4 to terminate.[0m
 [0m[[0mdebug[0m] [0m	Thread graphql-server-akka.actor.default-dispatcher-4 exited.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread graphql-server-akka.actor.default-dispatcher-3 to terminate.[0m
-[0m[[0mdebug[0m] [0m	Thread graphql-server-akka.actor.default-dispatcher-3 exited.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread graphql-server-akka.actor.default-dispatcher-13 to terminate.[0m
-[0m[[0mdebug[0m] [0m	Thread graphql-server-akka.actor.default-dispatcher-13 exited.[0m
 [0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
 [0m[[0mdebug[0m] [0mInterrupting thread h2mem-2[0m
 [0m[[0mdebug[0m] [0m	Interrupted h2mem-2[0m
 [0m[[0mdebug[0m] [0mInterrupting thread h2mem-1[0m
 [0m[[0mdebug[0m] [0m	Interrupted h2mem-1[0m
 [0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
